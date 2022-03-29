@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">helloKittyQuiz</string>
+    <string name="true_button"> True </string>
+    <string name="false_button"> False </string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="start_button">Start</string>
+    <string name="back_button">Go Back</string>
+
+    <string name="kitty1"> Hello Kitty boyfriend is Dear Daniel </string>
+    <string name="kitty2"> Hello Kitty has a pet cat called Gross Kitty </string>
+    <string name="kitty3"> Hello Kitty measurements is in pears </string>
+    <string name="kitty4"> Hello Kitty did not appears on the TV until the 80s </string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+
+    <string name="welcome_message">"Hello Kitty!"</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
