@@ -94,11 +94,11 @@ class QuizActivity : AppCompatActivity() {
         trueButton.setOnClickListener {
             checkAnswer(true)
         }
+        updateQuestions()
 
         falseButton.setOnClickListener {
             checkAnswer(false)
         }
-
         updateQuestions()
 
         oneButton.setOnClickListener {
