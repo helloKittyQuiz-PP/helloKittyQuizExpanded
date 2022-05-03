@@ -122,7 +122,7 @@ class QuizActivity : AppCompatActivity() {
         }
 
         nextButton.setOnClickListener {
-            currentIndex = (currentIndex + 1) % questionBank.size
+            //currentIndex = (currentIndex + 1) % questionBank.size
             updateQuestions()
         }
 
